@@ -60,5 +60,5 @@ Line chart showing the number of movies released per year.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Matplotlib.git
+   git clone https://github.com/devanshmutha09/Matplotlib-Projects/Netflix Project MatPlotLib.git
    cd Matplotlib
